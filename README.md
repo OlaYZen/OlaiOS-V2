@@ -1,2 +1,2 @@
-# OlaiOS-V2
-Customized Windows version
+# OlaiOS V2
+OlaiOS V2 is the successor to the original OlaiOS, which was a Linux distribution based on Arch Linux. However, due to technical difficulties and a lack of motivation, development on the original version was discontinued. In recent years, the decision was made to shift the focus to creating a custom version of Windows as the foundation for the new operating system. OlaiOS V2 is an operating system that is based on Windows, and I have plans to actively maintain and use it as their primary operating system upon completion.
